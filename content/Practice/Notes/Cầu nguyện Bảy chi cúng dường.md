@@ -3,7 +3,7 @@ Create date: 2024-10-20
 Source: Nyungney Pg.78
 Context: Trong pháp thực hành Nyungney
 tags:
-  - practice
+  - Practice
 ---
 ---
 - Khi vẫn còn là chúng sinh, chúng ta không có được trải nghiệm sự thanh tịnh hoàn toàn

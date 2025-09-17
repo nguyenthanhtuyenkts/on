@@ -1,7 +1,7 @@
 ---
 Source: 
 tags:
-  - practice
+  - Practice
 ---
 ---
 ***Key takeaway***

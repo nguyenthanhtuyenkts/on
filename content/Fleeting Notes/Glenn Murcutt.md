@@ -1,9 +1,8 @@
 ---
-Create date: 2025-01-09
+Create date: 2025-07-25
 source: 
 context: 
 tags:
-  - Practice
 ---
 ---
 **Key takeaway**

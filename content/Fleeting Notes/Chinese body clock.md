@@ -3,7 +3,7 @@ Create date: 2024-10-27
 source: https://www.healthline.com/health/chinese-body-clock#about
 context: 
 tags:
-  - Personal-development
+  - Development
 ---
 ---
 Bài viết trên Healthline giới thiệu về khái niệm "đồng hồ sinh học Trung Hoa" trong y học cổ truyền, theo đó cơ thể con người vận hành theo chu kỳ 24 giờ với mỗi khung giờ 2 tiếng dành riêng cho một cơ quan nhất định. Dưới đây là một số điểm chính:
