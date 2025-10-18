@@ -6,5 +6,6 @@ tags:
 ---
 ---
 **Key takeaway**
-Ghi chú dạng tuyến tính dành cho việc quản lý công việc, tổ chức
-Ghi chú dạng phi tuyến tính dành cho việc phát triển tri thức cá nhân
+
+- Ghi chú dạng tuyến tính dành cho việc quản lý công việc, tổ chức
+- Ghi chú dạng phi tuyến tính dành cho việc phát triển tri thức cá nhân
